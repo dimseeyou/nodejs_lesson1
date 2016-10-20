@@ -8,4 +8,4 @@ chalk.js
 
 <h1>Часть3</h1>
 
-два файла hello.js и hello-npm.js
+два файла module_hw1.js и call.js
